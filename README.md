@@ -1,3 +1,3 @@
 # testSubModule
 
-Committing and pushing in local and submodule at the same time!
+Changing this file to test --merge option for updating
