@@ -1,3 +1,3 @@
 # testSubModule
 
-Submodule has been updated 
+Committing and pushing in local and submodule at the same time!
