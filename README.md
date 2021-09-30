@@ -1,3 +1,3 @@
 # testSubModule
 
-Base state + 1
+Base state + 2
