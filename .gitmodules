@@ -1,0 +1,2 @@
+[submodule "testSubModule"]
+	branch = test
