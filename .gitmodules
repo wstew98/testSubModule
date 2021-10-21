@@ -1,2 +1,5 @@
 [submodule "testSubModule"]
 	branch = test
+[submodule "NestedModule"]
+	path = NestedModule
+	url = git@github.com:wstew98/NestedModule.git
